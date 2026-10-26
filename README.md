@@ -8,9 +8,9 @@
 
   <!-- Truck-Art Inspired Vibe Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/देखोज़रा_प्यार_से-DEKHO_MAGAR_PYAR_SE-yellow?style=for-the-badge&logoColor=black" />
-    <img src="https://img.shields.io/badge/हॉर्न_ओके_प्लीज़-HORN_OK_PLEASE-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/ZERO_BUGS_ALLOWED-बुरी_नज़र_वाले_तेरा_मुँह_काला-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/DEKHO_MAGAR_PYAR_SE-yellow?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/HORN_OK_PLEASE-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/ZERO_BUGS_ALLOWED-red?style=for-the-badge" />
   </p>
 
 </div>
