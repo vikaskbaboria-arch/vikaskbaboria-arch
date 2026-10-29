@@ -1,18 +1,17 @@
-# विकास बाबोरिया | VIKAS BABORIA 🇮🇳
-
-<div align="center">
+ <div align="center">
 
 # विकास बाबोरिया | VIKAS BABORIA 🇮🇳
 
-⭐ **FULL-STACK WEB DEVELOPER** ⭐ फुल-स्टैक वेब डेवलपर ⭐
+⭐ **FULL-STACK WEB DEVELOPER** ⭐
+
+फुल-स्टैक वेब डेवलपर
 
 <br />
 
-<!-- Truck-Art Inspired Vibe Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/DEKHO_MAGAR_PYAR_SE-yellow?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/HORN_OK_PLEASE-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ZERO_BUGS_ALLOWED-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DEKHO_MAGAR_PYAR_SE-yellow?style=for-the-badge&logoColor=black" alt="Dekho Magar Pyar Se" />
+  <img src="https://img.shields.io/badge/HORN_OK_PLEASE-blue?style=for-the-badge" alt="Horn OK Please" />
+  <img src="https://img.shields.io/badge/ZERO_BUGS_ALLOWED-red?style=for-the-badge" alt="Zero Bugs Allowed" />
 </p>
 
 </div>
@@ -28,7 +27,7 @@
 ## 🚀 About Me
 
 - 🎓 **Education:** 3rd Year Computer Science & Engineering (CSE) Student.
-- 💻 **Passions:** Full-stack architecture, real-time communications, and shipping creative web apps.
+- 💻 **Passions:** Full-stack architecture, real-time communications, and building creative web apps.
 - 🌱 **Currently Exploring:** Backend development, WebRTC, and real-time applications.
 - 📫 **GitHub:** [@vikaskbaboria-arch](https://github.com/vikaskbaboria-arch)
 
@@ -73,40 +72,51 @@
 
 ---
 
-## 🌐 Featured Projects (Latest Shipments)
+## 🌐 Featured Projects
 
 | Project | Description | Stack | Live Link |
 | :--- | :--- | :--- | :--- |
-| **Omegle Clone** | Real-time video/text matching chat application allowing instant random connectivity. | `Socket.IO` `React` `Express` | [🚀 Live App](https://ome-x-psi.vercel.app/) |
+| **Omegle Clone** | Real-time video and text matching chat application for instant random connections. | `Socket.IO` `React` `Express` | [🚀 Live App](https://ome-x-psi.vercel.app/) |
 | **Real-Time Chat App** | Messaging platform featuring instant communication and real-time updates. | `Socket.IO` `JavaScript` `Node.js` | [🚀 Live App](https://nac2.vercel.app/) |
 | **Movie Review Platform** | Full-stack platform to discover, rate, and review movies. | `Next.js` `React` `MongoDB` `Tailwind CSS` | [🚀 Live App](https://campux-one.vercel.app/) |
 
 ---
 
-## 📊 GitHub Contributions & Streak
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vikaskbaboria-arch&show_icons=true&theme=radical&hide_border=true" alt="Vikas's GitHub Stats" width="48%" />
+<a href="https://github.com/vikaskbaboria-arch">
+  <img src="https://github-stats-extended.vercel.app/api?username=vikaskbaboria-arch&show_icons=true&theme=radical&hide_border=true" alt="GitHub Statistics" height="180" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaskbaboria-arch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+<a href="https://github.com/vikaskbaboria-arch">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vikaskbaboria-arch&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="180" />
+</a>
 
 </div>
 
-<br />
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikaskbaboria-arch&theme=dark&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/vikaskbaboria-arch">
+  <img src="https://streak-stats.demolab.com?user=vikaskbaboria-arch&theme=dark&hide_border=true" alt="GitHub Contribution Streak" />
+</a>
 
 </div>
 
-<br />
+---
 
-<!-- GitHub Contribution Graph -->
+## 📈 Contribution Activity
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikaskbaboria-arch&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+<a href="https://github.com/vikaskbaboria-arch">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikaskbaboria-arch&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
+</a>
 
 </div>
 
