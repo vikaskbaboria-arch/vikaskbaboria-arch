@@ -79,7 +79,7 @@
 | Project | Description | Stack | Live Link |
 | :--- | :--- | :--- | :--- |
 | **Omegle Clone** | Real-time video and text matching chat application for instant random connections. | `Socket.IO` `React` `Express` | [🚀 Live App](https://ome-x-psi.vercel.app/) |
-| **Real-Time Chat App** | Messaging platform featuring instant communication and real-time updates. | `Socket.IO` `JavaScript` `Node.js` | [🚀 Live App](https://campux-one.vercel.app/) |
+| **Real-Time Chat App** | College marketplace platform featuring instant communication and real-time update. | `Socket.IO` `JavaScript` `Node.js` | [🚀 Live App](https://campux-one.vercel.app/) |
 | **Movie Review Platform** | Full-stack platform to discover, rate, and review movies. | `Next.js` `React` `MongoDB` `Tailwind CSS` | [🚀 Live App](https://nac2.vercel.app/) |
 
 ---
