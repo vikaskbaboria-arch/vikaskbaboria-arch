@@ -57,6 +57,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### 🔌 Real-Time Communication
@@ -78,8 +79,8 @@
 | Project | Description | Stack | Live Link |
 | :--- | :--- | :--- | :--- |
 | **Omegle Clone** | Real-time video and text matching chat application for instant random connections. | `Socket.IO` `React` `Express` | [🚀 Live App](https://ome-x-psi.vercel.app/) |
-| **Real-Time Chat App** | Messaging platform featuring instant communication and real-time updates. | `Socket.IO` `JavaScript` `Node.js` | [🚀 Live App](https://nac2.vercel.app/) |
-| **Movie Review Platform** | Full-stack platform to discover, rate, and review movies. | `Next.js` `React` `MongoDB` `Tailwind CSS` | [🚀 Live App](https://campux-one.vercel.app/) |
+| **Real-Time Chat App** | Messaging platform featuring instant communication and real-time updates. | `Socket.IO` `JavaScript` `Node.js` | [🚀 Live App](https://campux-one.vercel.app/) |
+| **Movie Review Platform** | Full-stack platform to discover, rate, and review movies. | `Next.js` `React` `MongoDB` `Tailwind CSS` | [🚀 Live App](https://nac2.vercel.app/) |
 
 ---
 
@@ -111,15 +112,7 @@
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-<a href="https://github.com/vikaskbaboria-arch">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikaskbaboria-arch&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
-</a>
-
-</div>
 
 ---
 
