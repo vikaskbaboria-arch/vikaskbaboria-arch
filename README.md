@@ -1,6 +1,6 @@
 <div align="center">
 
-# विकास बाबोरिया | VIKAS BABORIA 🇮🇳
+# विकास बबोरिया | VIKAS BABORIA 🇮🇳
 
 ⭐ **FULL-STACK WEB DEVELOPER** ⭐
 
