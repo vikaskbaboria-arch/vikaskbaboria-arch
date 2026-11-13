@@ -28,7 +28,7 @@
 
 - 🎓 **Education:** 3rd Year Computer Science & Engineering (CSE) Student.
 - 💻 **Passions:** Full-stack architecture, real-time communications, and building creative web apps.
-- 🌱 **Currently Exploring:** Backend development, WebRTC, and real-time applications.
+- 🌱 **Currently Exploring:** Building a developer-first, multi-channel notification infrastructure with email, in-app, and real-time delivery.
 - 📫 **GitHub:** [@vikaskbaboria-arch](https://github.com/vikaskbaboria-arch)
 
 ---
